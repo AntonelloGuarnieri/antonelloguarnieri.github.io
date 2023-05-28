@@ -136,46 +136,6 @@ canvas{
     color: #7c7c7c;
     font-weight: 400;
 }
-section {
-    width: 100vw;
-    padding: 0vw;
-    position: relative;
-    height: auto
-}
-#segunda {
-    width: 100vw;
-    position: relative;
-    padding-top: 5vw;
-    padding-bottom: 15vw
-}
 
-#inferior {
-    position: relative;
-    width: 54vw;
-    left: 23vw;
-    display: flex;
-    justify-content: space-between;
-    font-family: HaasR;
-    margin-top: 2.8vw;
-    text-transform: uppercase;
-    font-size: var(--p4);
-    overflow: hidden
-}
-#inferiorinner {
-    display: flex;
-    opacity: 1;
-    visibility: inherit;
-    width: 54vw;
-    justify-content: space-between
-    
-}
-#inferior div {
-    opacity: 0
-}
-#inferior span {
-    font-size: var(--p5);
-    top: -.2vw;
-    margin-left: .4vw;
-    position: relative
 }
 
