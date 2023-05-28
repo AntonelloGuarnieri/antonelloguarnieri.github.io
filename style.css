@@ -4,6 +4,16 @@
     box-sizing: border-box;
     font-family: gilroy;
 }
+{
+    box-sizing: border-box;
+    top: 0;
+    left: 0;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    user-select: none;
+    -webkit-user-select: none
+}
 html,body{
     height: 100%;
     width: 100%;
