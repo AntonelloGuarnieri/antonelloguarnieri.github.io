@@ -136,12 +136,7 @@ canvas{
     color: #7c7c7c;
     font-weight: 400;
 }
-#segunda {
-    width: 100vw;
-    position: relative;
-    padding-top: 5vw;
-    padding-bottom: 15vw
-}
+
 #inferior {
     position: relative;
     width: 54vw;
@@ -161,8 +156,11 @@ canvas{
     width: 54vw;
     justify-content: space-between
 }
-#inferior div {
-    opacity: 0
+#segunda {
+    width: 100vw;
+    position: relative;
+    padding-top: 5vw;
+    padding-bottom: 15vw
 }
 #inferior span {
     font-size: var(--p5);
@@ -170,5 +168,5 @@ canvas{
     margin-left: .4vw;
     position: relative
 }
-}
+
 
