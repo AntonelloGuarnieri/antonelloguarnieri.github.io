@@ -136,6 +136,13 @@ canvas{
     color: #7c7c7c;
     font-weight: 400;
 }
+#segunda {
+    width: 100vw;
+    position: relative;
+    padding-top: 5vw;
+    padding-bottom: 15vw
+}
+
 #inferior {
     position: relative;
     width: 54vw;
