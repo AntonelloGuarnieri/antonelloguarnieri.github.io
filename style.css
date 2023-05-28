@@ -4,16 +4,6 @@
     box-sizing: border-box;
     font-family: gilroy;
 }
-{
-    box-sizing: border-box;
-    top: 0;
-    left: 0;
-    padding: 0;
-    margin: 0;
-    position: relative;
-    user-select: none;
-    -webkit-user-select: none
-}
 html,body{
     height: 100%;
     width: 100%;
@@ -145,6 +135,12 @@ canvas{
 #page1>#left-text>h3{
     color: #7c7c7c;
     font-weight: 400;
+}
+section {
+    width: 100vw;
+    padding: 0vw;
+    position: relative;
+    height: auto
 }
 #segunda {
     width: 100vw;
