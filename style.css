@@ -168,5 +168,38 @@ canvas{
     margin-left: .4vw;
     position: relative
 }
+#largemov,#movbar,#titmov,#clientstit,.mySwiper,#barcodeswiper,.click,#welcomemov {
+    display: none
+}
+#large {
+    position: relative;
+    width: 60vw;
+    left: 20vw;
+    margin-top: 12vw
+}
+#large1,#large2,#large3 {
+    display: flex;
+    justify-content: space-between
+}
+#large {
+    display: none
+}
+#largemov {
+    display: flex;
+    flex-direction: column;
+    font-size: var(--p2);
+    text-transform: uppercase;
+    padding: 2vw
+}
+.largemovin {
+    display: block;
+    text-align: center
+}
+.largemovin span {
+    top: 1.7vw;
+    left: 0;
+    position: relative;
+    font-size: 8vw
+}
 
 
