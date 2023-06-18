@@ -216,9 +216,6 @@ canvas{
     margin-left: .4vw;
     position: relative
 }
-#inferior div {
-    opacity: 100
-}
 :root {
     --p1: 9.8vw;
     --p2: 2.7vw;
