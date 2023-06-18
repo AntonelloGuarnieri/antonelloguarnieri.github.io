@@ -217,7 +217,7 @@ canvas{
     position: relative
 }
 #inferior div {
-    opacity: 0
+    opacity: 100
 }
 :root {
     --p1: 9.8vw;
