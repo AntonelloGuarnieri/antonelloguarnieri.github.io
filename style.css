@@ -10,9 +10,9 @@
 }
 
 @font-face {
-    font-family:HaasR;
-    src: url(/font/NHaasGroteskTXPro-55Rg.ttf);
-    }
+    font-family: "HaasR";
+    src: url("fonts/NHaasGroteskTXPro-55Rg.ttf");
+  }
 
 h3 {
     font-size: var(--p2);
