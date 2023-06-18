@@ -171,19 +171,6 @@ canvas{
 #largemov,#movbar,#titmov,#clientstit,.mySwiper,#barcodeswiper,.click,#welcomemov {
     display: none
 }
-#large {
-    position: relative;
-    width: 60vw;
-    left: 20vw;
-    margin-top: 12vw
-}
-#large1,#large2,#large3 {
-    display: flex;
-    justify-content: space-between
-}
-#large {
-    display: none
-}
 #largemov {
     display: flex;
     flex-direction: column;
@@ -201,5 +188,3 @@ canvas{
     position: relative;
     font-size: 8vw
 }
-
-
