@@ -10,9 +10,21 @@
 }
 
 @font-face {
-    font-family: "HaasR";
-    src: url("fonts/NHaasGroteskTXPro-55Rg.ttf");
-  }
+    font-family: HaasR;
+    src: url(/Users/antonelloguarnieri/Downloads/fonts/NHaasGroteskTXPro-55Rg.ttf)
+    font-stretch: normal;
+    font-display: swap
+}
+
+  html,body {
+    width: 100vw;
+    height: 100vh;
+    color: #363636;
+    font-family: HaasR;
+    color: #000;
+    -webkit-font-smoothing: antialiased
+}
+
 
 h3 {
     font-size: var(--p2);
@@ -41,14 +53,6 @@ h4,p {
     border-right: 1px solid cyan
 }
 
-html,body {
-    width: 100vw;
-    height: 100vh;
-    color: #363636;
-    font-family: HaasR;
-    color: #000;
-    -webkit-font-smoothing: antialiased
-}
 *{
     margin: 0%;
     padding: 0%;
