@@ -9,13 +9,6 @@
     -webkit-user-select: none
 }
 
-@font-face {
-    font-family: HaasR;
-    src: url(/fonts/NHaasGroteskTXPro-55Rg.ttf)
-    font-stretch: normal;
-    font-display: swap
-}
-
   html,body {
     width: 100vw;
     height: 100vh;
@@ -223,6 +216,9 @@ canvas{
     margin-left: .4vw;
     position: relative
 }
+#inferior div {
+    opacity: 0
+}
 :root {
     --p1: 9.8vw;
     --p2: 2.7vw;
@@ -261,7 +257,17 @@ section {
     height: auto
 }
 
+#large {
+    position: relative;
+    width: 60vw;
+    left: 20vw;
+    margin-top: 12vw
+}
 
+#large1,#large2,#large3 {
+    display: flex;
+    justify-content: space-between
+}
 
 
 
