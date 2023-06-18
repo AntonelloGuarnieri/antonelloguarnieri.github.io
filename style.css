@@ -168,6 +168,9 @@ canvas{
     margin-left: .4vw;
     position: relative
 }
+#largemov,#movbar,#titmov,#clientstit,.mySwiper,#barcodeswiper,.click,#welcomemov {
+    display: none
+}
 
 #largemov {
     display: flex;
@@ -185,4 +188,10 @@ canvas{
     left: 0;
     position: relative;
     font-size: 8vw
+}
+section {
+    width: 100vw;
+    padding: 0vw;
+    position: relative;
+    height: auto
 }
