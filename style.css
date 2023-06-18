@@ -30,7 +30,29 @@
     src: url(/fonts/PTMono-Regular.ttf) format("truetype");
     font-display: swap
 }
+h1,h2 {
+    font-size: var(--p1);
+    text-transform: uppercase;
+    font-family: HaasT;
+    font-weight: lighter;
+    line-height: .9
+}
 
+h3 {
+    font-size: var(--p2);
+    text-transform: uppercase;
+    font-family: HaasR;
+    font-weight: lighter;
+    line-height: .9
+}
+
+h4,p {
+    font-size: var(--p4);
+    text-transform: uppercase;
+    line-height: 1;
+    font-weight: lighter;
+    font-family: HaasR
+}
 #aux {
     left: 12.5vw;
     width: 75vw;
