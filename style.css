@@ -10,33 +10,9 @@
 }
 
 @font-face {
-    font-family: HaasR;
-    src: url(/fonts/NeueHaasGrotDispRound-55Roman-Web.woff2) format("woff2"),url(/fonts/NeueHaasGrotDispRound-55Roman-Web.woff) format("woff");
-    font-style: normal;
-    font-stretch: normal;
-    font-display: swap
-}
-
-@font-face {
-    font-family: HaasT;
-    src: url(/fonts/NeueHaasGrotDispRound-35Thin-Web.woff2) format("woff2"),url(/fonts/NeueHaasGrotDispRound-35Thin-Web.woff) format("woff");
-    font-style: normal;
-    font-stretch: normal;
-    font-display: swap
-}
-
-@font-face {
-    font-family: PT Mono;
-    src: url(/fonts/PTMono-Regular.ttf) format("truetype");
-    font-display: swap
-}
-h1,h2 {
-    font-size: var(--p1);
-    text-transform: uppercase;
-    font-family: HaasT;
-    font-weight: lighter;
-    line-height: .9
-}
+    font-family:HaasR;
+    src: url(/font/NHaasGroteskTXPro-55Rg.ttf);
+    }
 
 h3 {
     font-size: var(--p2);
