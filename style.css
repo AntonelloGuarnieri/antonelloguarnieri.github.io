@@ -268,6 +268,14 @@ section {
     display: flex;
     justify-content: space-between
 }
+#intext {
+    font-size: var(--p5);
+    line-height: 1;
+    width: 5vw;
+    text-align: center;
+    position: relative;
+    top: .4vw
+}
 
 
 
