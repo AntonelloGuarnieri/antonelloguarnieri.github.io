@@ -223,6 +223,15 @@ canvas{
     margin-left: .4vw;
     position: relative
 }
+:root {
+    --p1: 9.8vw;
+    --p2: 2.7vw;
+    --p3: 1.5vw;
+    --p4: .84vw;
+    --p5: .6vw;
+    --s1: .76vw;
+    --color: #000
+}
 #largemov,#movbar,#titmov,#clientstit,.mySwiper,#barcodeswiper,.click,#welcomemov {
     display: none
 }
