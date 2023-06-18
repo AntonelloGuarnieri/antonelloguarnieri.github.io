@@ -168,9 +168,7 @@ canvas{
     margin-left: .4vw;
     position: relative
 }
-#largemov,#movbar,#titmov,#clientstit,.mySwiper,#barcodeswiper,.click,#welcomemov {
-    display: none
-}
+
 #largemov {
     display: flex;
     flex-direction: column;
