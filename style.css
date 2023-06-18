@@ -230,7 +230,7 @@ canvas{
 #largemov {
     display: flex;
     flex-direction: column;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: HaasR;
     font-size: var(--p2);
     text-transform: uppercase;
     padding: 2vw
