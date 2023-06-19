@@ -324,9 +324,255 @@ textos1 {
     top: -.2vw;
     margin-right: .5vw
 }
+#tercera {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20vw
+}
 
+#tercera p {
+    margin-bottom: 1vw;
+    padding: 0 3vw;
+    z-index: -1
+}
+#tercera h2 {
+    width: 63vw;
+    text-align: center;
+    z-index: -1
+}
+#tercera h3 {
+    width: 46vw;
+    position: relative;
+    margin-top: 1.5vw
+}
+#tercera img {
+    position: absolute;
+    right: auto;
+    left: -15vw;
+    font-size: var(--p3);
+    top: -1.4vw;
+    width: 3vw
+}
+#tercera img.right {
+    left: auto;
+    right: -15vw;
+    width: 7vw;
+    top: .3vw
+}
+#tercera h2 {
+    width: 100vw
+}
+#tercera {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 50vw
+}
+#tercera h3 {
+    width: 70vw;
+    text-align: center;
+    margin-top: 7.5vw
+}
+#tercera p {
+    margin-bottom: 2vw
+}
+#tercera img.right {
+    left: -20vw;
+    right: auto;
+    width: 20vw;
+    top: -98.9vw;
+    transform: rotate(90deg)
+}
+#tercera img {
+    right: auto;
+    left: 73vw;
+    top: -75vw;
+    width: 8.5vw
+}
+#primernum {
+    width: 7vw;
+    height: 7vw;
+    border: 1px solid;
+    display: block;
+    border-radius: .5vw;
+    font-size: var(--p4);
+    padding: .5vw;
+    margin-bottom: 12vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    z-index: -1;
+    text-transform: uppercase
+}
+#primernum span {
+    font-size: var(--p2)
+}
+#primernum {
+    border: none;
+    width: 30vw;
+    left: 2vw;
+    height: 5vw;
+    flex-direction: row;
+    margin-bottom: 32vw
+}
+#primernum span {
+    display: none
+}
+#imginside {
+    display: inline-block;
+    position: relative;
+    width: 4.9vw;
+    height: 7vw;
+    margin: 0 2vw;
+    border-radius: .5vw;
+    left: 0;
+    top: 0;
+    background: url(/img/lata_abriendo.jpg) center center / cover
+}
 
+#imginside3 {
+    display: inline-block;
+    width: 8vw;
+    height: 7vw;
+    background: url(/img/bolsa_estanteria.jpg) center center / cover;
+    border-radius: .5vw;
+    margin-right: 2vw;
+    top: 0;
+    left: .5vw
+}
 
+#imginside4 {
+    display: inline-block;
+    width: 7vw;
+    height: 9.5vw;
+    background: url(/img/bolsa_mano.jpg) center center / cover;
+    border-radius: .5vw;
+    margin-right: 2vw;
+    top: 1.2vw;
+    left: -11vw
+}
+
+.imginside5 {
+    display: inline-block;
+    width: 9vw;
+    height: 7vw;
+    background: url(/img/banco_batidobolsa.jpg) center center / cover;
+    border-radius: .5vw;
+    margin: 0 2vw
+}
+
+.imginside6 {
+    display: inline-block;
+    width: 9vw;
+    height: 7vw;
+    background: url(/img/latabarrita_escaleras.jpg) center center / cover;
+    border-radius: .5vw;
+    margin: 0 2vw
+}
+
+#imginside7 {
+    position: absolute;
+    top: 15.6vw;
+    left: 17vw;
+    width: 12vw;
+    height: 16vw;
+    background: url(/img/grupo_encajaregistradora.jpg) center center / cover;
+    border-radius: .5vw;
+    margin: 0 2vw;
+    z-index: 9
+}
+
+#imginside8 {
+    position: absolute;
+    top: 15.6vw;
+    left: 67vw;
+    width: 12vw;
+    height: 16vw;
+    background: url(/img/bolsaplastico_mano.jpg) center center / cover;
+    border-radius: .5vw;
+    margin: 0 2vw;
+    z-index: 9
+}
+
+#imginside9 {
+    position: absolute;
+    top: 46.6vw;
+    left: 59vw;
+    width: 16vw;
+    height: 22vw;
+    background: url(/img/carrito_productos.jpg) center center / cover;
+    border-radius: .5vw;
+    margin: 0 2vw;
+    z-index: 0
+}
+
+#imginside10 {
+    position: absolute;
+    top: 54vw;
+    left: 10vw;
+    width: 16vw;
+    height: 22vw;
+    background: url(/img/manos_productos.jpg) center center / cover;
+    border-radius: .5vw;
+    margin: 0 2vw;
+    z-index: 0
+}
+
+#imginside11 {
+    position: absolute;
+    top: 72vw;
+    left: 36vw;
+    width: 12vw;
+    height: 16vw;
+    background: url(/img/lata_escanear.jpg) center center / cover;
+    border-radius: .5vw;
+    margin: 0 2vw;
+    z-index: 0
+}
+
+#imginside12 {
+    position: absolute;
+    top: 79vw;
+    left: 64vw;
+    width: 12vw;
+    height: 16vw;
+    background: url(/img/latas_estanteriaarriba-2.jpg) center center / cover;
+    border-radius: .5vw;
+    margin: 0 2vw;
+    z-index: 0
+}
+@media screen and (max-width: 1024px) and (orientation:portrait) {
+    #superiorstart,#superior,#scroll,#aceptar,.tit,.movno,#imginside3,#imginside7,#imginside8,#imginside9,#imginside10,#imginside11,#imginside12,#clients h2 {
+        display:none
+    }
+#imginside {
+        display: inline;
+        opacity: 0
+    }
+.imginside5 {
+        width: 16vw;
+        height: 12vw
+    }
+    .imginside6 {
+        position: absolute;
+        top: 34vw;
+        width: 20vw;
+        height: 10vw;
+        right: 0;
+        left: auto;
+        margin: 0
+    }
+.imginside5,.imginside6 {
+        display: none
+    }
+    .imginside6 {
+        display: inline-block;
+        position: relative;
+        width: 3vw;
+        opacity: 0
+    }
 
 
 
