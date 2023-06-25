@@ -573,6 +573,12 @@ textos1 {
         width: 3vw;
         opacity: 0
     }
+    .textos2in {
+        width: 50%
+    }
+.textos2in {
+        width: 100%
+    }
 
 
 
