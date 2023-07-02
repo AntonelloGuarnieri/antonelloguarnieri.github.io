@@ -12,7 +12,7 @@
     </script>
     <meta charset="UTF-8">
     <meta content="width=device-width,initial-scale=1" name="viewport">
-    <title>081 ® VISUAL LANGUAGES</title>
+    <title>SILENCIO ® VISUAL LANGUAGES</title>
     <meta content="notranslate" name="google">
     <link href="https://silencio.es/" rel="canonical">
     <meta content="en_GB" property="og:locale">
@@ -29,13 +29,12 @@
     <link href="/safari-pinned-tab.svg" rel="mask-icon" color="#dbdad9">
     <meta content="#dbdad9" name="msapplication-TileColor">
     <meta content="#dbdad9" name="theme-color">
-    <script src="/assets/index-d92960aa.js"></script>
     <script src="/assets/index-5f9b5534.js" crossorigin type="module"></script>
     <link href="/assets/index-964e5b23.css" rel="stylesheet">
     <meta name="google" value="notranslate">
 </head>
 <body>
-    <!--<div id="preloader"></div>-->
+    <div id="preloader"></div>
     <div id="canvasmov"></div>
     <div id="movbar">
         <div id="pantalla">
@@ -63,7 +62,7 @@
     <div id="lateral">
         <div id="lateralinner">
             <div id="limited">
-                <div>© Welcome to 081 world © Welcome to 081 world</div>
+                <div>© Welcome to silencio store © Welcome to silencio store</div>
             </div>
             <div id="lat1">AUTHENTIC DIGITAL PRODUCTS © SELF SERVICE STORE</div>
             <div id="lat2">PRODUCTS AVAILABLE 365 DAYS</div>
@@ -216,19 +215,19 @@
                 <div id="inferior">
                     <div id="inferiorinner">
                         <div>
-                            Branding
+                            Digital Branding
                             <span>#01</span>
                         </div>
                         <div>
-                            Web design
+                            Visual Languages
                             <span>#02</span>
                         </div>
                         <div>
-                            UX/UI
+                            Interactive websites
                             <span>#03</span>
                         </div>
                         <div>
-                            *Lorem Ipsum*
+                            Disruptive Comm.
                             <span>#04</span>
                         </div>
                     </div>
@@ -236,7 +235,7 @@
                 <div id="largemov">
                     <div class="largemovin">
                         <span>®</span>
-                         081 is a design studio
+                         Silencio is a design studio
                     </div>
                     <div class="largemovin">focuseD on DIGITAL VISUAL</div>
                     <div class="largemovin">LANGUAGES FOR DARING brands</div>
