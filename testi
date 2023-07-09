@@ -34,7 +34,7 @@
     <meta name="google" value="notranslate">
 </head>
 <body>
-    <!--<div id="preloader"></div>-->
+    <div id="preloader"></div>
     <div id="canvasmov"></div>
     <div id="movbar">
         <div id="pantalla">
@@ -51,12 +51,12 @@
     </div>
     <div id="superiorstart">
         <div id="silenciostart">
-            SILENCI 
+            ANTONELLO GUARNIERI ®
             <span>®</span>
         </div>
         <div id="superiormask">
             <div>Visual</div>
-            <div>Languages</div>
+            <div>Designer</div>
         </div>
     </div>
     <div id="lateral">
@@ -64,7 +64,7 @@
             <div id="limited">
                 <div>© Welcome to 081 world © Welcome to 081 world</div>
             </div>
-            <div id="lat1">AUTHENTIC DIGITAL PRODUCTS © SELF SERVICE STORE</div>
+            <div id="lat1">ANTONELLO GUARNIERI</div>
             <div id="lat2">PRODUCTS AVAILABLE 365 DAYS</div>
             <div id="lat3">VERY LIMITED QUANTITY AVAILABLE</div>
             <div id="barcodelat">
@@ -117,7 +117,7 @@
         <div>Click to enter!</div>
     </div>
     <div id="ticket">
-        SILENCIO
+        0823
         <div id="date">01/07/23</div>
         <br>
         ----------------------

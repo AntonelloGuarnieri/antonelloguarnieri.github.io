@@ -12,7 +12,7 @@
         </script>
         <meta charset="UTF-8">
         <meta content="width=device-width,initial-scale=1" name="viewport">
-        <title>ANTONELLO GUARNIERI ® VISUAL DESIGNER</title>
+        <title>SILENCIO ® VISUAL LANGUAGES</title>
         <meta content="notranslate" name="google">
         <link href="https://silencio.es/" rel="canonical">
         <meta content="en_GB" property="og:locale">
@@ -38,7 +38,7 @@
         <div id="canvasmov"></div>
         <div id="movbar">
             <div id="pantalla">
-                <div class="pantallas on" id="pant0">benvenuto |visual designer | portfolio | antonello guarnieri |</div>
+                <div class="pantallas on" id="pant0">welcome | digital producs store | welcome | digital producs store |</div>
                 <div class="pantallas" id="pant1">Digital Branding X1</div>
                 <div class="pantallas" id="pant2">Visual languages X1</div>
                 <div class="pantallas" id="pant3">Interactive website X1</div>
@@ -46,22 +46,22 @@
             </div>
             <div id="infosmov">Info</div>
             <a href="https://portfolio.silencio.es" target="_blank">
-                <div id="worksmov">Portfolio</div>
+                <div id="worksmov">Works</div>
             </a>
         </div>
         <div id="superiorstart">
             <div id="silenciostart">
-                ANTONELLO GUARNIERI <span>®</span>
+                SILENCIO <span>®</span>
             </div>
             <div id="superiormask">
                 <div>Visual</div>
-                <div>Designer</div>
+                <div>Languages</div>
             </div>
         </div>
         <div id="lateral">
             <div id="lateralinner">
                 <div id="limited">
-                    <div>© Antonello Guarnieri portfolio © Antonello Guarnieri </div>
+                    <div>© Welcome to silencio store © Welcome to silencio store</div>
                 </div>
                 <div id="lat1">AUTHENTIC DIGITAL PRODUCTS © SELF SERVICE STORE</div>
                 <div id="lat2">PRODUCTS AVAILABLE 365 DAYS</div>
@@ -84,11 +84,11 @@
                 </div>
                 <div id="lat8">
                     <div id="latcopyright">
-                        Copyright 2023 | ANTONELLO©
+                        Copyright 2023 | SILENCIO © visual languages<br>all rights reserved
                     </div>
                     <div id="latmail">
                         <div id="copied">e-mail Copied</div>
-                        antonelloguarnieri6@gmail.com
+                        PORFAVOR@SILENCIO.ES
                         <div id="copymail">
                             <img alt="copy" src="/img/copy.svg">
                         </div>
@@ -99,14 +99,14 @@
         <a href="https://portfolio.silencio.es/" target="_blank">
             <div id="fixworks">
                 <img alt="flecha" src="/img/arrow.svg">
-                <div id="selected">IV V MMXXIII</div>
+                <div id="selected">Selected works</div>
             </div>
         </a>
         <div id="aceptar">
-            <div>*Lorem</div>
+            <div>Click to enter!</div>
         </div>
         <div id="ticket">
-            Antonello<div id="date">04/07/23</div>
+            SILENCIO<div id="date">04/07/23</div>
             <br>
             ----------------------<br>
             ** DIGITAL PRODUCTS **<br>
@@ -129,49 +129,49 @@
             <br>
             <br>
             TOTAL:<br>
-            <span class="referencia">* PROGETTI SPECIALI!</span>
+            <span class="referencia">* SPECIAL PROJECT!</span>
             <br>
             <br>
             **********************<br>
-            Grazie per la visita!<br>
+            Thanks for your visit!<br>
             <img alt="barcode" src="/img/barcode.svg" id="ticketbarcode">
             <br>
             ----------------------<br>
-            <span class="cap">Qualunque sia la tua richiesta:</span>
+            <span class="cap">General inquiries &new business:</span>
             <br>
-            antonelloguarnieri6@gmail.com<br>
+            porfavor@silencio.es<br>
             ----------------------<br>
-            <span class="cap">Per progetti straordinari, scrivimi!</span>
+            <span class="cap">We love meeting people with whom we can work and share projects. Write to us!</span>
             <br>
-            antonelloguarnieri6@gmail.com<br>
+            buscando@silencio.es<br>
         </div>
         <div id="bg"></div>
         <div id="wrapper">
             <div id="content">
                 <div id="root"></div>
                 <section id="landing">
-                    <div id="welcomemov">Visual Designer</div>
+                    <div id="welcomemov">Digital products</div>
                     <div id="barcode1">
                         <img alt="barcode" src="/img/barcode1.svg">
                     </div>
                     <div id="superior">
                         <div id="silencio">
-                            ANTONELLO GUARNIERI <span>®</span>
+                            SILENCIO <span>®</span>
                         </div>
                         <div id="superiormask2">
                             <div>Visual</div>
-                            <div>designer</div>
+                            <div>Languages</div>
                         </div>
                     </div>
                     <div id="middle">
                         <div id="titmov">
-                            <h1>Visual designer Visual designer</h1>
+                            <h1>Digital products Digital products</h1>
                         </div>
-                        <h1 class="tit">Visual designer</h1>
+                        <h1 class="tit">Digital products</h1>
                         <h2></h2>
                         <div id="segundo">
                             <h3>
-                                Portfolio <img alt="silencio" src="/img/iso.svg" id="att">Antonello Guarnieri
+                                For contemporary <img alt="silencio" src="/img/iso.svg" id="att">brands
                             </h3>
                         </div>
                         <h4 class="tit1">We craft unique, innovative and memorable digital experiences that strive to push the boundaries and leave a lasting impact through design and interactivity
@@ -261,12 +261,12 @@
                     </h3>
                     <div id="textos2">
                         <div class="movno textos2in">
-                            <p class="text">Sphinx è un progetto innovativo che offre un'esperienza completa ai clienti. Con Sphinx, non solo avrai a disposizione il tradizionale catalogo cartaceo, stampato con cura e precisione, che presenta tutti i nostri prodotti in modo dettagliato e accattivante, ma potrai anche immergerti nel mondo del catalogo multimediale interattivo.</p>
-                            <!--<p class="text">We never settle for a brief if we detect other opportunities. We attempt to go further and propose different solutions that allow our clients to position themselves in a disruptive way.</p>-->
+                            <p class="text">We love thinking. Everything starts with an idea around which we construct the entire brand communication. An ingenious concept that provides a differential value and is suitable to achieve your goals.</p>
+                            <p class="text">We never settle for a brief if we detect other opportunities. We attempt to go further and propose different solutions that allow our clients to position themselves in a disruptive way.</p>
                         </div>
                         <div class="textos2in">
-                            <p class="text">Il catalogo multimediale di Sphinx è una vera e propria avventura per i nostri clienti. Oltre alle descrizioni e alle immagini coinvolgenti dei prodotti, il catalogo multimediale offre un gioco entusiasmante, che permette di guadagnare premi e svelare contenuti esclusivi. I clienti possono godersi un'esperienza coinvolgente mentre esplorano la vasta gamma di prodotti offerti da Sphinx.</p>
-                            <!--<p class="text">Digital, coherent and identifiable universes, based on the needs of each client, with resourcefulness as a tool throughout the entire process.</p>-->
+                            <p class="text">We believe that designing brands that remain graphically unchanged for 30 years no longer makes sense; we work based on concepts that go beyond time and provide the basis of aesthetics.</p>
+                            <p class="text">Digital, coherent and identifiable universes, based on the needs of each client, with resourcefulness as a tool throughout the entire process.</p>
                         </div>
                     </div>
                 </section>
@@ -339,15 +339,15 @@
                 </div>
                 <section id="aesthetics">
                     <h2 class="titulos2">
-                        PASSIONE<br>
+                        Aesthetics<br>
                         <div id="imginside3" data-speed="1.05"></div>
-                        ELEGANZA<br>
-                        MAGIA<br>
-                        SENSUALITA
+                        for an<br>
+                        ever<span>-</span>
+                        changing<br>context
                     </h2>
                     <p class="interactive">Visual Languages</p>
                     <img alt="symbol product" src="/img/symbols2.svg" class="numdos">
-                    <h3 class="titulos3 hotspicy">Wine &chocolate!</h3>
+                    <h3 class="titulos3 hotspicy">Extra hot &spicy!</h3>
                     <div id="aesthetics-textos">
                         <p class="text">New visual languages adapt to screens, especially mobile phones. For a long time now, a brand is no longer just a logo. In fact, the logo has become part of the background and is no longer the key of identity. It is essential to have a defined and recognisable personality, which allows one to create a unique universe.</p>
                         <p class="text movno">We generate visual systems that transmit brand values in a logical and direct way. Each organisation has its own context and its own goals, so we understand that the aesthetic solution for each company should be different.</p>
@@ -367,7 +367,7 @@
                                     #02<div class="numeroinner">#03</div>
                                 </div>
                             </div>
-                            <div class="lat2">Wine &chocolate</div>
+                            <div class="lat2">Extra hot &spicy</div>
                             <div class="abajoizq">
                                 <div class="lat">Aesthetics for an ever-changing context</div>
                                 <div class="barcode_prod">
@@ -656,8 +656,7 @@
                     </a>
                 </section>
                 <section id="final">
-                    <h2>fuck you <br>
-                        ops, thank you </h2>
+                    <h2>Thanks for your visit!</h2>
                 </section>
                 <section id="final2">
                     <div id="open24">
