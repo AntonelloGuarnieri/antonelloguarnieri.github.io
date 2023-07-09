@@ -638,7 +638,7 @@ h4, p {
 }
 
 #tercera h2 {
-    width: 63vw;
+    width: 100vw;
     text-align: center;
     z-index:-1
 }
@@ -892,7 +892,7 @@ h4, p {
 
 .hotspicy {
     position: absolute;
-    width: 15vw;
+    width: 18vw;
     text-align: right;
     right: 12.5vw;
     left: auto;
@@ -904,6 +904,12 @@ h4, p {
     margin-top: 3vw;
     width: 5.5vw;
     left:49vw
+}
+.numdos2 {
+    margin-top: 3vw;
+    width: 15vw;
+    left: 35vw;
+    top:-11vw
 }
 
 #aesthetics-textos {
@@ -1645,7 +1651,18 @@ h4, p {
     display: inline-block;
     width: 8vw;
     height: 7vw;
-    background: url(/img/bolsa_estanteria.jpg) center center / cover;
+    background: url(/img/scavino.png) center center / cover;
+    border-radius: .5vw;
+    margin-right: 2vw;
+    top: 0;
+    left:.5vw
+}
+
+#imginsidelogo {
+    display: inline-block;
+    width: 8vw;
+    height: 7vw;
+    background: url(/img/magicae.svg) center center / cover;
     border-radius: .5vw;
     margin-right: 2vw;
     top: 0;
@@ -1754,7 +1771,7 @@ h4, p {
 }
 
 @media screen and (max-width: 1024px) and(orientation: portrait) {
-    #superiorstart, #superior, #scroll, #aceptar, .tit, .movno, #imginside3, #imginside7, #imginside8, #imginside9, #imginside10, #imginside11, #imginside12, #clients h2 {
+    #superiorstart, #superior, #scroll, #aceptar, .tit, .movno, #imginside3, #imginside7, #imginside8, #imginside9, #imginside10, #imginside11, #imginside12, #clients h2, {
         display:none
     }
 
