@@ -56232,17 +56232,7 @@ function V5(n) {
             ease: "power4.easeInOut",
             immediateRender: !1
         }),
-        he.gsap.to("#marco1 .progressbar", {
-            scrollTrigger: {
-                trigger: "#tercera",
-                scrub: .2,
-                start: "bottom 0",
-                end: "bottom -50%"
-            },
-            width: innerWidth * .063,
-            ease: "power4.easeInOut",
-            immediateRender: !1
-        }),
+     
         he.gsap.from("#marco1 .numero", {
             scrollTrigger: {
                 trigger: ".etiqueta.uno",
